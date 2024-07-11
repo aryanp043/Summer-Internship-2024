@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aryan\\Desktop\\wth\\1 Supper Internship\\Day 8 --- 9-7-24\\my_files\\WebApplication 88\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7D048F-7D5D-415D-B7AB-FD0BA7C37558}|WebApplication 88\\WebApplication 88.csproj|c:\\users\\aryan\\desktop\\wth\\1 supper internship\\day 8 --- 9-7-24\\my_files\\webapplication 88\\webapplication 88\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E7D048F-7D5D-415D-B7AB-FD0BA7C37558}|WebApplication 88\\WebApplication 88.csproj|solutionrelative:webapplication 88\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7D048F-7D5D-415D-B7AB-FD0BA7C37558}|WebApplication 88\\WebApplication 88.csproj|c:\\users\\aryan\\desktop\\wth\\1 supper internship\\day 8 --- 9-7-24\\my_files\\webapplication 88\\webapplication 88\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E7D048F-7D5D-415D-B7AB-FD0BA7C37558}|WebApplication 88\\WebApplication 88.csproj|solutionrelative:webapplication 88\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7D048F-7D5D-415D-B7AB-FD0BA7C37558}|WebApplication 88\\WebApplication 88.csproj|c:\\users\\aryan\\desktop\\wth\\1 supper internship\\day 8 --- 9-7-24\\my_files\\webapplication 88\\webapplication 88\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7D048F-7D5D-415D-B7AB-FD0BA7C37558}|WebApplication 88\\WebApplication 88.csproj|solutionrelative:webapplication 88\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Aryan\\Desktop\\wth\\1 Supper Internship\\Day 8 --- 9-7-24\\my_files\\WebApplication 88\\WebApplication 88\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication 88\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Aryan\\Desktop\\wth\\1 Supper Internship\\Day 8 --- 9-7-24\\my_files\\WebApplication 88\\WebApplication 88\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication 88\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T10:25:45.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aryan\\Desktop\\wth\\1 Supper Internship\\Day 8 --- 9-7-24\\my_files\\WebApplication 88\\WebApplication 88\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication 88\\Program.cs",
+              "ToolTip": "C:\\Users\\Aryan\\Desktop\\wth\\1 Supper Internship\\Day 8 --- 9-7-24\\my_files\\WebApplication 88\\WebApplication 88\\Program.cs",
+              "RelativeToolTip": "WebApplication 88\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:21:44.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aryan\\Desktop\\wth\\1 Supper Internship\\Day 8 --- 9-7-24\\my_files\\WebApplication 88\\WebApplication 88\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication 88\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aryan\\Desktop\\wth\\1 Supper Internship\\Day 8 --- 9-7-24\\my_files\\WebApplication 88\\WebApplication 88\\appsettings.json",
+              "RelativeToolTip": "WebApplication 88\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T10:02:17.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
