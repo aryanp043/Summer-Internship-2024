@@ -1,0 +1,2 @@
+download and install postresql and pgadmin.
+perform various actions on database and query on data.
