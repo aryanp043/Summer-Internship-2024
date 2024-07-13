@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aryan\\Desktop\\wth\\1 Supper Internship\\Day 5 --- 4-7-24\\my_files\\auth\\WebApplication2 auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8485636C-49FE-4FC9-A6ED-D614346E4A85}|WebApplication2 auth\\WebApplication2 auth.csproj|c:\\users\\aryan\\desktop\\wth\\1 supper internship\\day 5 --- 4-7-24\\my_files\\auth\\webapplication2 auth\\webapplication2 auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8485636C-49FE-4FC9-A6ED-D614346E4A85}|WebApplication2 auth\\WebApplication2 auth.csproj|solutionrelative:webapplication2 auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8485636C-49FE-4FC9-A6ED-D614346E4A85}|WebApplication2 auth\\WebApplication2 auth.csproj|c:\\users\\aryan\\desktop\\wth\\1 supper internship\\day 5 --- 4-7-24\\my_files\\auth\\webapplication2 auth\\webapplication2 auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8485636C-49FE-4FC9-A6ED-D614346E4A85}|WebApplication2 auth\\WebApplication2 auth.csproj|solutionrelative:webapplication2 auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8485636C-49FE-4FC9-A6ED-D614346E4A85}|WebApplication2 auth\\WebApplication2 auth.csproj|c:\\users\\aryan\\desktop\\wth\\1 supper internship\\day 5 --- 4-7-24\\my_files\\auth\\webapplication2 auth\\webapplication2 auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8485636C-49FE-4FC9-A6ED-D614346E4A85}|WebApplication2 auth\\WebApplication2 auth.csproj|solutionrelative:webapplication2 auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8485636C-49FE-4FC9-A6ED-D614346E4A85}|WebApplication2 auth\\WebApplication2 auth.csproj|c:\\users\\aryan\\desktop\\wth\\1 supper internship\\day 5 --- 4-7-24\\my_files\\auth\\webapplication2 auth\\webapplication2 auth\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8485636C-49FE-4FC9-A6ED-D614346E4A85}|WebApplication2 auth\\WebApplication2 auth.csproj|solutionrelative:webapplication2 auth\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Aryan\\Desktop\\wth\\1 Supper Internship\\Day 5 --- 4-7-24\\my_files\\auth\\WebApplication2 auth\\WebApplication2 auth\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication2 auth\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Aryan\\Desktop\\wth\\1 Supper Internship\\Day 5 --- 4-7-24\\my_files\\auth\\WebApplication2 auth\\WebApplication2 auth\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication2 auth\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T04:32:06.718Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aryan\\Desktop\\wth\\1 Supper Internship\\Day 5 --- 4-7-24\\my_files\\auth\\WebApplication2 auth\\WebApplication2 auth\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2 auth\\Program.cs",
+              "ToolTip": "C:\\Users\\Aryan\\Desktop\\wth\\1 Supper Internship\\Day 5 --- 4-7-24\\my_files\\auth\\WebApplication2 auth\\WebApplication2 auth\\Program.cs",
+              "RelativeToolTip": "WebApplication2 auth\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T05:42:14.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aryan\\Desktop\\wth\\1 Supper Internship\\Day 5 --- 4-7-24\\my_files\\auth\\WebApplication2 auth\\WebApplication2 auth\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2 auth\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aryan\\Desktop\\wth\\1 Supper Internship\\Day 5 --- 4-7-24\\my_files\\auth\\WebApplication2 auth\\WebApplication2 auth\\appsettings.json",
+              "RelativeToolTip": "WebApplication2 auth\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T05:23:35.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Aryan\\Desktop\\wth\\1 Supper Internship\\Day 5 --- 4-7-24\\my_files\\auth\\WebApplication2 auth\\WebApplication2 auth\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication2 auth\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Aryan\\Desktop\\wth\\1 Supper Internship\\Day 5 --- 4-7-24\\my_files\\auth\\WebApplication2 auth\\WebApplication2 auth\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApplication2 auth\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwD0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T04:28:35.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
