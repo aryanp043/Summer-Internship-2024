@@ -1,2 +1,7 @@
- here in...... path > Day4/WebApplication1/ folder name (iiovs) is actually (.vs) file
-it was not uploading on git so i renamed and uploaded it.
+-------------------------------------------------------------------------------------------
+
+
+set up visual studio community 2022 and learn about its project architecture and built login API.
+
+
+-------------------------------------------------------------------------------------------------

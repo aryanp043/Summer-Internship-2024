@@ -1,3 +1,9 @@
- 
+--------------------------------------------------------------------------------------------------- 
 
-Azure session
+
+>  Azure session   :
+>  Azure session and learned how to deploy frontend, backend & databaseServer
+        using services and features of Azure.
+
+
+---------------------------------------------------------------------------------------------------
